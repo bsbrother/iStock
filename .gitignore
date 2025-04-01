@@ -1,3 +1,11 @@
+*.db
+.web
+assets/external/
+# Python Reflex Project
+.python-version
+.venv
+uv.lock
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
